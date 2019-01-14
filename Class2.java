@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Dustin Moody
  */
 
 public class Class2 {
